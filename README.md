@@ -525,7 +525,7 @@ menu.html
 ```
 # OUTPUT:
 ![alt text](1.png)
-![alt text](2.png)
+![2](https://github.com/user-attachments/assets/d643b2ab-877e-4d42-8cd5-f228f8d7390f)
 ![alt text](3.png)
 ![alt text](4.png)
 ![alt text](5.png)
